@@ -1,0 +1,24 @@
+{
+  "name": "nodebotproject",
+  "version": "1.0.0",
+  "description": "facebook messenger bot ",
+  "main": "placessearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandnk24/FacebookMessengerBot.git"
+  },
+  "author": "Anand Kannappan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandnk24/FacebookMessengerBot/issues"
+  },
+  "homepage": "https://github.com/anandnk24/FacebookMessengerBot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
